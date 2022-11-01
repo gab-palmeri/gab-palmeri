@@ -4,12 +4,11 @@
 
 <h3 align="center">A Web/Software developer from Italy 🇮🇹</h3>
 
+<br>
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif">
+  <img align="right" top="500" height="200" width="300" alt="GIF" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif">
 </a>
-
-<br>
 
 - 🎓 I’m currently pursuing a Computer Engineering Master Degree in <a href="https://www.polito.it" target="blank">Politecnico di Torino</a>
 
