@@ -10,7 +10,7 @@
   <img align="right" top="500" height="200" width="300" alt="GIF" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif">
 </a>
 
-- 🎓 I’m currently pursuing a Computer Engineering Master Degree in <a href="https://www.polito.it" target="blank">Politecnico di Torino</a>
+- 🎓 I’m currently studying Computer Engineering @ <a href="https://www.polito.it" target="blank">Politecnico di Torino</a>
 
 - 🌱 I’m working on <a href="https://t.me/grouptags_bot">TagBot</a> 
 
