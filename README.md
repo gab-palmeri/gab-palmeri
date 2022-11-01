@@ -11,7 +11,7 @@
 
 <br>
 
-- 🎓 I’m currently pursuing a Computer Engineering Master Degree in </br><a href="https://www.polito.it" target="blank">Politecnico di Torino</a>
+- 🎓 I’m currently pursuing a Computer Engineering Master Degree in <a href="https://www.polito.it" target="blank">Politecnico di Torino</a>
 
 - 🌱 I’m working on <a href="https://t.me/grouptags_bot">TagBot</a> 
 
