@@ -14,7 +14,7 @@
 
 - 🌱 I’m working on <a href="https://t.me/grouptags_bot">TagBot</a> 
 
-- 👨🏻‍💻 My main programming languages are **Python** and **Javascript**
+- 👨🏻‍💻 My main programming languages are **Python** and **Typescript**
 
 - 🔭 I'm learning more about **Data Science**, **Data Engineering** and **Machine Learning**
 
