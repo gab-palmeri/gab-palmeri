@@ -2,7 +2,7 @@
   Hi 👋, I'm <a href="https://github.com/gab-palmeri/" target="blank">Gab</a>
 </h1>
 
-<h3 align="center">A Web/Software developer from Italy 🇮🇹</h3>
+<h3 align="center">Cloud consultant in Data Engineering / Data Science from Italy 🇮🇹</h3>
 
 <br>
 
@@ -10,9 +10,9 @@
   <img align="right" top="500" height="200" width="300" alt="GIF" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif">
 </a>
 
-- 🎓 I’m currently studying Computer Engineering @ <a href="https://www.polito.it" target="blank">Politecnico di Torino</a>
+- 🎓 I graduated in Computer Engineering @ <a href="https://www.polito.it" target="blank">Politecnico di Torino</a>
 
-- 🌱 I’m working on <a href="https://t.me/grouptags_bot">TagBot</a> 
+- 🌱 I developed <a href="https://t.me/grouptags_bot">TagBot</a> 
 
 - 👨🏻‍💻 My main programming languages are **Python** and **Typescript**
 
